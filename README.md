@@ -1,5 +1,5 @@
 # Drag And Drop
-![](https://github.com/Hydrock/drag-and-drop-js/blob/master/src/assets/hand.png)
+![](https://github.com/Hydrock/drag-and-drop-js/blob/master/src/assets/hand-mini.png?raw=100)
 
 **Плагин дает возможность перетаскивать элементы**
 
