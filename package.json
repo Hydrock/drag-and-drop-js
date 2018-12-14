@@ -1,13 +1,10 @@
 {
-  "name": "drag-and-drop",
-  "version": "1.0.0",
+  "name": "@hydrock/drag-and-drop",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npx parcel ./src/index.html",
-    "build": "npx parcel build ./src/index.html --out-dir docs --public-url .",
-    "clean": "npx shx rm -rf ./docs && shx echo Done"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -18,9 +15,5 @@
   "bugs": {
     "url": "https://github.com/Hydrock/drag-and-drop-js/issues"
   },
-  "homepage": "https://github.com/Hydrock/drag-and-drop-js#readme",
-  "devDependencies": {
-    "parcel": "^1.10.3",
-    "shelljs": "^0.8.3"
-  }
+  "homepage": "https://github.com/Hydrock/drag-and-drop-js#readme"
 }
