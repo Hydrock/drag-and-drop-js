@@ -10,6 +10,8 @@ module.exports = function (moveElement, moveHandler) {
     };
 
     function startDrag (type, e, moveElement) {
+        moveElement.style.position = 'absolute';
+        
         // говорим о том что moveElement перетаскивается
         moveElement.draggable = true;
     
