@@ -16,7 +16,7 @@ const dragAndDrop = dragAndDropObject.default;
 
 // секция которую нужно перетащить
 var sectionElement = document.querySelector('section');
-// элемент за который необходимо потянуть
+// элемент за который необходимо потянуть [необязательный]
 var headerElement = document.querySelector('header');
 
 dragAndDrop(sectionElement, headerElement);

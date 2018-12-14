@@ -1,6 +1,10 @@
 module.exports = function (moveElement, moveHandler) {
     var layerX = 0, layerY = 0;
 
+    if (!moveHandler) {
+        moveHandler = moveElement;
+    }
+
     moveElement.ondragstart = function() {
         return false;
     };
