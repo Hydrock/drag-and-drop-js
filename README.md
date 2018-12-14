@@ -11,10 +11,9 @@ npm i
 Использование
 
 ```javascript
-import * as dragAndDropObject from '@hydrock/drag-and-drop';
-const dragAndDrop = dragAndDropObject.default;
+import dragAndDrop from '@hydrock/drag-and-drop';
 
-// секция которую нужно перетащить
+// секция, которую нужно перетащить
 var sectionElement = document.querySelector('section');
 // элемент за который необходимо потянуть [необязательный]
 var headerElement = document.querySelector('header');

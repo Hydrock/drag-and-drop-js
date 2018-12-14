@@ -1,4 +1,4 @@
-module.exports = function (moveElement, moveHandler) {
+export default function dragAndDrop(moveElement, moveHandler) {
     var layerX = 0, layerY = 0;
 
     if (!moveHandler) {

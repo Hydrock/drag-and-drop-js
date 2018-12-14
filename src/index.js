@@ -1,5 +1,4 @@
-import * as dragAndDropObject from '../index.js';
-const dragAndDrop = dragAndDropObject.default;
+import dragAndDrop from '../index.js';
 
 var sectionElement = document.querySelector('.section_1');
 var headerElement = document.querySelector('.header_1');
