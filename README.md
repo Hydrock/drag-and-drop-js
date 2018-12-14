@@ -1,13 +1,12 @@
 # Drag And Drop
 
-See example https://github.com/Hydrock/drag-and-drop-js
-
 <div style="text-align:center">
     <img src="https://raw.githubusercontent.com/Hydrock/drag-and-drop-js/master/src/assets/hand-mini.png" 
     />
     <h3>Плагин дает возможность перетаскивать элементы</h3>
 </div>
 
+Смотри пример https://hydrock.github.io/drag-and-drop-js/
 
 Установка
 
