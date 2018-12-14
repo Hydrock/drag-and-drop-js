@@ -1,7 +1,11 @@
 # Drag And Drop
-![](https://github.com/Hydrock/drag-and-drop-js/blob/master/src/assets/hand-mini.png?raw=100)
 
-**Плагин дает возможность перетаскивать элементы**
+<div style="text-align:center">
+    <img src="https://raw.githubusercontent.com/Hydrock/drag-and-drop-js/master/src/assets/hand-mini.png" 
+    />
+    <h3>Плагин дает возможность перетаскивать элементы</h3>
+</div>
+
 
 Установка
 
